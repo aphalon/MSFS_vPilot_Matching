@@ -12,6 +12,6 @@ Repo to store .vmr files to enable vPilot to render non-standard models (those t
 
 ## Installation/Configuration
 
-Download the .vmr files needed into a specific folder.
+Download the .vmr files needed into a specific folder and remember where you put them...
 
 In vPilot goto `Settings`... then expand the `Model Matching (MSFS)` tree by click on the (+) and select `Custom Rules`. Click on the `Add Custom Rule Set(s)` button and select whichever files you want to model match... repeat as required.
